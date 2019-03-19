@@ -1,0 +1,7 @@
+D:\VisualStudio\Clase01\Programacio2\bin\Debug\Programacio2.exe.config
+D:\VisualStudio\Clase01\Programacio2\bin\Debug\Programacio2.exe
+D:\VisualStudio\Clase01\Programacio2\bin\Debug\Programacio2.pdb
+D:\VisualStudio\Clase01\Programacio2\obj\Debug\Programacio2.csprojAssemblyReference.cache
+D:\VisualStudio\Clase01\Programacio2\obj\Debug\Programacio2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Clase01\Programacio2\obj\Debug\Programacio2.exe
+D:\VisualStudio\Clase01\Programacio2\obj\Debug\Programacio2.pdb
