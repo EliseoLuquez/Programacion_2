@@ -1,0 +1,11 @@
+D:\VisualStudio\Forms\Forms\bin\Debug\Forms.exe.config
+D:\VisualStudio\Forms\Forms\bin\Debug\Forms.exe
+D:\VisualStudio\Forms\Forms\bin\Debug\Forms.pdb
+D:\VisualStudio\Forms\Forms\obj\Debug\Form.csprojAssemblyReference.cache
+D:\VisualStudio\Forms\Forms\obj\Debug\Forms.FrmPersona.resources
+D:\VisualStudio\Forms\Forms\obj\Debug\Forms.FrmPpal.resources
+D:\VisualStudio\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\VisualStudio\Forms\Forms\obj\Debug\Form.csproj.GenerateResource.cache
+D:\VisualStudio\Forms\Forms\obj\Debug\Form.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Forms\Forms\obj\Debug\Forms.exe
+D:\VisualStudio\Forms\Forms\obj\Debug\Forms.pdb
