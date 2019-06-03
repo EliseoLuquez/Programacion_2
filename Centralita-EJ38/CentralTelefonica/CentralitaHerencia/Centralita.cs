@@ -78,8 +78,11 @@ namespace CentralitaHerencia
 			return total;
         }
 
-
-		public string Mostrar()
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <returns></returns>
+		public override string ToString()
 		{
 			StringBuilder sb = new StringBuilder();
 			sb.Append("\nRazon Social: " + this.razonSocial);
@@ -88,16 +91,59 @@ namespace CentralitaHerencia
 			sb.Append("\nGanancia Total: " + this.GananciasPorTotal);
 			foreach (Llamada llamada in this.Llamadas)
 			{
-				sb.Append(llamada is Local ? ((Local)llamada).Mostrar() : ((Provincial)llamada).Mostrar());
+				sb.Append(llamada is Local ? ((Local)llamada).ToString() : ((Provincial)llamada).ToString());
 			}
 			return sb.ToString();
 
 		}
 
-
+		private string Mostrar()
+		{
+			return this.ToString();
+		}
+		/// <summary>
+		/// 
+		/// </summary>
 		public void OrdenarLlamadas()
 		{
 			this.Llamadas.Sort(Llamada.OrdenarPorDuracion);	
 		}
-    }
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="nuevaLlamada"></param>
+		private void AgergarLlamada(Llamada nuevaLlamada)
+		{
+			listaDeLlamadas.Add(nuevaLlamada);
+		}
+
+
+		public static bool operator ==(Centralita c, Llamada llamada)
+		{
+			foreach (Llamada llamAux in c.listaDeLlamadas)
+			{
+				if(llamada == llamAux)
+				{
+					return true;
+				}
+			}
+			return false;
+		}
+
+		public static bool operator !=(Centralita c, Llamada llamada)
+		{
+			return !(c == llamada);
+		}
+
+		public static Centralita operator +(Centralita c, Llamada nuevaLlamada)
+		{
+			if(c != nuevaLlamada)
+			{
+				c.AgergarLlamada(nuevaLlamada);
+			}
+			return c;
+		}
+
+	}
 }

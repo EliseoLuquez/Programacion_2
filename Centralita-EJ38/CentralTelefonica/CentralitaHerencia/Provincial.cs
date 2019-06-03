@@ -9,13 +9,15 @@ namespace CentralitaHerencia
 	public class Provincial : Llamada
 	{
 		protected Franja franjaHoraria;
-		private float costoLlamada;
 
-		public float CostoLlamada
+		public override float CostoLlamada
 		{
 			get { return this.CalcularCosto(); }
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
 		public enum Franja
 		{
 			Franja_1,
@@ -23,11 +25,23 @@ namespace CentralitaHerencia
 			Franja_3
 		}
 
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="miFranja"></param>
+		/// <param name="llamada"></param>
 		public Provincial(Franja miFranja, Llamada llamada) : base( llamada.Duracion,  llamada.NroDestino, llamada.NroOrigen)
 		{
 			this.franjaHoraria = miFranja;
 		}
 		
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="origen"></param>
+		/// <param name="miFranja"></param>
+		/// <param name="duracion"></param>
+		/// <param name="destino"></param>
 		public Provincial(string origen, Franja miFranja, float duracion, string destino) : base(duracion, destino, origen)
 		{
 			this.franjaHoraria = miFranja;
@@ -62,12 +76,32 @@ namespace CentralitaHerencia
 		/// 
 		/// </summary>
 		/// <returns></returns>
-		public string Mostrar()
+		protected override string Mostrar()
 		{
 			StringBuilder sb = new StringBuilder(base.Mostrar());
-			sb.Append("\nFranja Horarioa: " + this.franjaHoraria);
+			sb.Append("\nFranja Horaria: " + this.franjaHoraria);
+			sb.Append("\nCosto de Llamada: " + this.CostoLlamada);
 
 			return sb.ToString();
+		}
+
+		/// <summary>
+		/// 
+		/// </summary>
+		/// <param name="obj"></param>
+		/// <returns></returns>
+		public override bool Equals(object obj)
+		{
+			if(obj is Provincial)
+			{
+				return true;
+			}
+			return false;
+		}
+
+		public override string ToString()
+		{
+			return Mostrar();
 		}
 
 	}

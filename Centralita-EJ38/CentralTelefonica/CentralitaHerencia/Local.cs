@@ -8,10 +8,9 @@ namespace CentralitaHerencia
 {
     public class Local : Llamada
     {
-        protected float costo;
-        private float costoLlamada;
+        protected  float costo;
 
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get { return this.CalcularCosto(); }
         }
@@ -22,7 +21,7 @@ namespace CentralitaHerencia
 		/// <returns></returns>
         private float CalcularCosto()
         {
-           return this.costoLlamada = this.duracion * this.costo;
+           return this.duracion * this.costo;
         }
 
 		/// <summary>
@@ -51,14 +50,27 @@ namespace CentralitaHerencia
 		/// 
 		/// </summary>
 		/// <returns></returns>
-		public string Mostrar()
+		protected override string Mostrar()
 		{
 			StringBuilder sb = new StringBuilder(base.Mostrar());
-			sb.Append("\nCosto LLamada: " + this.costoLlamada);
+			sb.Append("\nCosto LLamada: " + this.CostoLlamada);
 
 			return sb.ToString();
 		}
 
+		public override bool Equals(object obj)
+		{
+			if(obj is Local)
+			{
+				return true;
+			}
+			return false;
+		}
+
+		public override string ToString()
+		{
+			return Mostrar();
+		}
 
 	}
 }

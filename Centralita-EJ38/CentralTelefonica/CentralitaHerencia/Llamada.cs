@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
-    public class Llamada
+    public abstract class Llamada
     {
         protected float duracion;
         protected string nroDestino;
@@ -61,12 +61,13 @@ namespace CentralitaHerencia
             this.nroOrigen = nroOrigen;
         }
 
+		public abstract float CostoLlamada{ get ;}
 
         /// <summary>
         /// 
         /// </summary>
         /// <returns></returns>
-        public string Mostrar()
+        protected virtual string Mostrar()
         {
             string aux = Convert.ToString(this.duracion);
             StringBuilder sb = new StringBuilder();
@@ -90,6 +91,24 @@ namespace CentralitaHerencia
 			return orden;
 		}
 
-    }
+		public static bool operator ==(Llamada llamada1, Llamada llamada2)
+		{
+			if (llamada1.GetType() == llamada2.GetType() && llamada1.NroOrigen == llamada2.NroOrigen && 
+				llamada1.NroDestino == llamada2.nroDestino)
+			{
+				return true;
+			}
+			return false;
+
+		}
+
+
+		public static bool operator !=(Llamada llamada1, Llamada llamada2)
+		{
+			return !(llamada1 == llamada2);
+		}
+
+
+	}
 }
 
