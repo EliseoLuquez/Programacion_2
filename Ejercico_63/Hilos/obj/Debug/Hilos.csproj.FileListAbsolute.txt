@@ -1,0 +1,10 @@
+D:\VisualStudio\Ejercico_63\Hilos\bin\Debug\Hilos.exe.config
+D:\VisualStudio\Ejercico_63\Hilos\bin\Debug\Hilos.exe
+D:\VisualStudio\Ejercico_63\Hilos\bin\Debug\Hilos.pdb
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.Form1.resources
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.Properties.Resources.resources
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.csproj.GenerateResource.cache
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.exe
+D:\VisualStudio\Ejercico_63\Hilos\obj\Debug\Hilos.pdb
