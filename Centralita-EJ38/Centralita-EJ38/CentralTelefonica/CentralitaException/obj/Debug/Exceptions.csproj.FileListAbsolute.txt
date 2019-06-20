@@ -1,0 +1,6 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\CentralitaException\bin\Debug\CentralitaException.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\CentralitaException\bin\Debug\CentralitaException.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\CentralitaException\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\CentralitaException\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\CentralitaException\obj\Debug\CentralitaException.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\CentralitaException\obj\Debug\CentralitaException.pdb

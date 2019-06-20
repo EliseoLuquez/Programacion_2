@@ -1,0 +1,14 @@
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\bin\Debug\Ejercicio03.exe
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\bin\Debug\Ejercicio03.pdb
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\obj\Debug\Ejercicio03.exe
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\obj\Debug\Ejercicio03.pdb
+D:\VisualStudio\GuiaEjercicios\Ejercicio03\obj\Debug\Ejercicio03.csprojAssemblyReference.cache
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\bin\Debug\Ejercicio03.exe
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\bin\Debug\Ejercicio03.pdb
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\obj\Debug\Ejercicio03.csprojAssemblyReference.cache
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\obj\Debug\Ejercicio03.csproj.CoreCompileInputs.cache
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\obj\Debug\Ejercicio03.exe
+D:\Luquez\Programacion_2-master\Clase02\Ejercicio03\obj\Debug\Ejercicio03.pdb

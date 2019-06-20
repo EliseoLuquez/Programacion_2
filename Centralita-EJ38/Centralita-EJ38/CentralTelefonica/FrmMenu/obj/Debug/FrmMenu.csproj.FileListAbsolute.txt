@@ -1,0 +1,16 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\bin\Debug\FrmMenu.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\bin\Debug\FrmMenu.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\bin\Debug\FrmMenu.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\bin\Debug\CentralitaHerencia.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.FrmMenu.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.FrmLlamador.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.FrmMostrar.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.Properties.Resources.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csproj.GenerateResource.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\FrmMenu\obj\Debug\FrmMenu.pdb

@@ -1,0 +1,13 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\Test.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\Test.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\Test.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\CentralitaHerencia.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\obj\Debug\Test.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\obj\Debug\Test.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\CentralitaException.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\Centralita-EJ38\Centralita-EJ38\CentralTelefonica\Test\bin\Debug\CentralitaException.pdb

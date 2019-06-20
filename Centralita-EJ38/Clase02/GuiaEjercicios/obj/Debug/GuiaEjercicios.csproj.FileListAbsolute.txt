@@ -1,0 +1,7 @@
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\bin\Debug\GuiaEjercicios.exe.config
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\bin\Debug\GuiaEjercicios.exe
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\bin\Debug\GuiaEjercicios.pdb
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.csprojAssemblyReference.cache
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.csproj.CoreCompileInputs.cache
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.exe
+D:\VisualStudio\GuiaEjercicios\GuiaEjercicios\obj\Debug\GuiaEjercicios.pdb
