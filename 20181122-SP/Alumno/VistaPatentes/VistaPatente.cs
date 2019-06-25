@@ -19,7 +19,7 @@ namespace Patentes
     public partial class VistaPatente : UserControl
     {
         public event FinExposicionPatente finExposicion;
-        
+
         public VistaPatente()
         {
             InitializeComponent();
@@ -31,23 +31,19 @@ namespace Patentes
 
             if (lblPatenteNro.InvokeRequired)
             {
-                try
-                {
-                    Random r = new Random();
+                Random r = new Random();
 
-                    // Llamar al hilo principal
-                    // ALUMNO
-                    MostrarPatente mp = new MostrarPatente(new ParameterizedThreadStart(this.MostrarPatente));
-                    mp.Invoke(patente);
-       
+                // Llamar al hilo principal
+                // ALUMNO
+                MostrarPatente mp = new MostrarPatente(new ParameterizedThreadStart(this.MostrarPatente));
+                mp.Invoke(patente);
 
-                    Thread.Sleep(r.Next(2000, 5000));
+                //Muestro por un tiempo determinado 
+                Thread.Sleep(r.Next(2000, 5000));
 
-                    // Agregar evento de que finalizó la exposición de la patente
-                    // ALUMNO
-                    this.finExposicion.Invoke(this);
-                }
-                catch (Exception ) { }
+                // Agregar evento de que finalizó la exposición de la patente
+                // ALUMNO
+                this.finExposicion.Invoke(this);
             }
             else
             {
@@ -56,6 +52,5 @@ namespace Patentes
             }
         }
 
-       
     }
 }

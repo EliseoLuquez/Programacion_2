@@ -14,27 +14,45 @@ namespace Archivos
         public void Guardar(string archivo, Queue<Patente> datos)
         {
             StreamWriter sw = new StreamWriter(archivo);
-            for(int i = 0; i < datos.Count(); i++)
+            try
             {
-                Patente p = datos.Dequeue();
-                sw.WriteLine(p.ToString());
+                for(int i = 0; i < datos.Count(); i++)
+                {
+                    Patente p = datos.Dequeue();
+                    sw.WriteLine(p.ToString());
+                }
             }
-            sw.Close();
+            catch(Exception e)
+            {
+                throw new Exception("Error al Guardar archivo de texto" + e.Message, e);
+            }
+            finally
+            {
+               sw.Close();
+            }
         }
 
         public void Leer(string archivo, out Queue<Patente> datos)
         {
             StreamReader sr = new StreamReader(archivo);
-            datos = new Queue<Patente>();
-            string p = sr.ReadLine();
-            while(p.Length > 0)
+            try
             {
-                datos.Enqueue(new Patente(p, p.Length == 5 ? Patente.Tipo.Vieja : Patente.Tipo.Mercosur));
+                datos = new Queue<Patente>();
+                string p = sr.ReadLine();
+                while(sr.EndOfStream)
+                {
+                    datos.Enqueue(new Patente(p, p.Length == 5 ? Patente.Tipo.Vieja :
+                    Patente.Tipo.Mercosur));  
+                }
             }
-
-            sr.Close();
-      
-
+            catch(Exception e)
+            {
+                throw new Exception("Error al Leer archivo de texto" + e.Message, e);
+            }
+            finally
+            {
+                sr.Close();
+            }
         }
     }
 }

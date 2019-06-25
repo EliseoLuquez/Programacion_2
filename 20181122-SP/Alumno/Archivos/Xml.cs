@@ -16,8 +16,18 @@ namespace Archivos
         {
             XmlSerializer serializer = new XmlSerializer(typeof(T));
             XmlTextWriter xmlWriter = new XmlTextWriter(archivo, Encoding.ASCII);
-            serializer.Serialize(xmlWriter, datos);
-            xmlWriter.Close();
+            try
+            {    
+                serializer.Serialize(xmlWriter, datos);
+            }
+            catch (Exception e)
+            {
+                throw new Exception("Error al serializar\n" + e.Message, e);
+            }
+            finally
+            {
+                xmlWriter.Close();
+            }
 
         }
 
@@ -26,9 +36,19 @@ namespace Archivos
         {
             XmlTextReader xmlReader = new XmlTextReader(archivo);
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(T));
-            datos = (T)xmlSerializer.Deserialize(xmlReader);
+            try
+            {
+                datos = (T)xmlSerializer.Deserialize(xmlReader);
+            }
+            catch (Exception e)
+            {
+                throw new Exception("Error al deserializar\n" + e.Message, e);
+            }
+            finally
+            {
+                xmlReader.Close();
+            }
 
-            xmlReader.Close();
         }
     }
 }

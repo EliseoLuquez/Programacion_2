@@ -19,37 +19,59 @@ namespace Archivos
         {
             conexion = new SqlConnection();
             comando = new SqlCommand();
+
+            //String connectionString = "Server=.\\SQLEXPRESS;Database=patentes-sp-2018;Trusted_Connection=True;";
+           // this.conexion = new SqlConnection(connectionString);
             
         }
 
 
         public void Guardar(string tabla, Queue<Patente> datos)
         {
-            conexion.Open();
-            while (datos.Count > 0)
+            try
             {
-                Patente p = datos.Dequeue();
-                comando.CommandText = "INSERT into [dbo].Patentes Values ('" + p.CodigoPatente + "' , '" +
-                    p.TipoCodigo.ToString() + "');";
-                comando.ExecuteNonQuery();
+                conexion.Open();
+                while (datos.Count > 0)
+                {
+                    Patente p = datos.Dequeue();
+                    comando.CommandText = "INSERT into [dbo].Patentes Values ('" + p.CodigoPatente + "' , '" +
+                        p.TipoCodigo.ToString() + "');";
+                    comando.ExecuteNonQuery();
+                }
             }
-            conexion.Close();
+            catch (Exception e)
+            {
+                throw e;
+            }
+            finally
+            {
+                conexion.Close();
+            }
         }
         public void Leer(string tabla, out Queue<Patente> datos)
         {
-            conexion.Open();
-            datos = new Queue<Patente>();
-            comando.CommandText = "SELECT * From [dbo].Patentes";
-            SqlDataReader oDr = comando.ExecuteReader();
-            while (oDr.Read())
+            try
             {
-                Patente p = new Patente(oDr["Patente"].ToString(), oDr["Tipo"].ToString() == Patente.Tipo.Mercosur.ToString()
-                    ? Patente.Tipo.Mercosur : Patente.Tipo.Vieja);
-                datos.Enqueue(p);    
+                conexion.Open();
+                datos = new Queue<Patente>();
+                comando.CommandText = "SELECT * From [dbo].Patentes";
+                SqlDataReader oDr = comando.ExecuteReader();
+                while (oDr.Read())
+                {
+                    Patente p = new Patente(oDr["Patente"].ToString(), oDr["Tipo"].ToString() == Patente.Tipo.Mercosur.ToString()
+                        ? Patente.Tipo.Mercosur : Patente.Tipo.Vieja);
+                    datos.Enqueue(p);    
+                }
+                oDr.Close();
             }
-
-            conexion.Close();
-
+            catch(Exception e)
+            {
+                throw e;
+            }
+            finally
+            {
+                conexion.Close();
+            }
 
         }
 

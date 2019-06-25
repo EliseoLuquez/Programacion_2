@@ -37,9 +37,10 @@
             // 
             // btnTxt
             // 
-            this.btnTxt.Location = new System.Drawing.Point(146, 148);
+            this.btnTxt.Location = new System.Drawing.Point(195, 182);
+            this.btnTxt.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnTxt.Name = "btnTxt";
-            this.btnTxt.Size = new System.Drawing.Size(128, 74);
+            this.btnTxt.Size = new System.Drawing.Size(171, 91);
             this.btnTxt.TabIndex = 2;
             this.btnTxt.Text = "TXT";
             this.btnTxt.UseVisualStyleBackColor = true;
@@ -47,9 +48,10 @@
             // 
             // btnXml
             // 
-            this.btnXml.Location = new System.Drawing.Point(12, 148);
+            this.btnXml.Location = new System.Drawing.Point(16, 182);
+            this.btnXml.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnXml.Name = "btnXml";
-            this.btnXml.Size = new System.Drawing.Size(128, 74);
+            this.btnXml.Size = new System.Drawing.Size(171, 91);
             this.btnXml.TabIndex = 3;
             this.btnXml.Text = "XML";
             this.btnXml.UseVisualStyleBackColor = true;
@@ -57,23 +59,26 @@
             // 
             // vistaPatente2
             // 
-            this.vistaPatente2.Location = new System.Drawing.Point(146, 12);
+            this.vistaPatente2.Location = new System.Drawing.Point(195, 15);
+            this.vistaPatente2.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.vistaPatente2.Name = "vistaPatente2";
-            this.vistaPatente2.Size = new System.Drawing.Size(128, 48);
+            this.vistaPatente2.Size = new System.Drawing.Size(171, 59);
             this.vistaPatente2.TabIndex = 1;
             // 
             // vistaPatente1
             // 
-            this.vistaPatente1.Location = new System.Drawing.Point(12, 12);
+            this.vistaPatente1.Location = new System.Drawing.Point(16, 15);
+            this.vistaPatente1.Margin = new System.Windows.Forms.Padding(5, 5, 5, 5);
             this.vistaPatente1.Name = "vistaPatente1";
-            this.vistaPatente1.Size = new System.Drawing.Size(128, 48);
+            this.vistaPatente1.Size = new System.Drawing.Size(171, 59);
             this.vistaPatente1.TabIndex = 0;
             // 
             // btnSql
             // 
-            this.btnSql.Location = new System.Drawing.Point(12, 100);
+            this.btnSql.Location = new System.Drawing.Point(16, 123);
+            this.btnSql.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnSql.Name = "btnSql";
-            this.btnSql.Size = new System.Drawing.Size(262, 42);
+            this.btnSql.Size = new System.Drawing.Size(349, 52);
             this.btnSql.TabIndex = 4;
             this.btnSql.Text = "SQL";
             this.btnSql.UseVisualStyleBackColor = true;
@@ -81,15 +86,16 @@
             // 
             // FrmPpal
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(289, 234);
+            this.ClientSize = new System.Drawing.Size(403, 316);
             this.Controls.Add(this.btnSql);
             this.Controls.Add(this.btnXml);
             this.Controls.Add(this.btnTxt);
             this.Controls.Add(this.vistaPatente2);
             this.Controls.Add(this.vistaPatente1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FrmPpal";
