@@ -1,0 +1,78 @@
+Sistemas Op
+
+sudo su
+apt-get install lvm2
+fdisk -l /dev/sdb
+fdisk /dev/sdb
+orden p
+4 particiones primarias
+n
+p
+enter boton x3
+p
+t
+8e
+p
+q(salgo sin hacer nada)
+w(crea)
+//**SEGUNDA PARTICION**/
+
+fdisk /dev/sdc
+orden p
+4 particiones primarias
+n
+p
+enter boton x3
+p
+t
+8e
+p
+q(salgo sin hacer nada)
+w(crea)
+ 
+***PARTE FISICA***
+pcreate /dev/sdb1 /dev/sdc1
+pvs(Muestra lo que se creo)
+pvremove /dev/sdb1 le saca el formato lvm
+
+**VOLUME GRUPO**	
+vgcreate vg00 /dev/sdb1
+vgs (muestra)
+
+vgextend vg00 /dev/sdc1 (agrego disco para extender sdb1)
+vg(Lista los comandos)
+vgreduce vg00 /dev/sdc1 (Quito sdc1 de sdb1)
+lsblk (muetra particiones)
+
+**LOGIC VOLUME**
+lvcreate -L +30MB -n rrhh vg00(Creacion logica)
+lvs(muestra)
+lvcreate -L +100MB -n cont vg00
+lvextend -L +20MB /dev/vg00/cont (extiendo el espacio)
+
+**Foramto**
+mkfs.ext4 /dev/vg00/cont (Formatea para utilizarlo)
+mkdir /rrhh /cont (creo los directorios)
+mount /dev/vg00/rrhh /rrhh
+mount /dev/vg00/cont /cont(Monto)
+lsblk 
+
+**
+chmode cambiar permisos
+chgrp
+
+
+7/12 temas  parcial
+**** CREACION DE GRUPO DE USUARIOS ***
+groupadd nombregrupo
+groupdel nombregrupo
+
+**** CREACION DE USUARIOS ***
+useradd -m -s /bin/bash -g grupo nombreusuario
+passwd usuario
+clave`
+
+** CAMBIAR PROPIETARIO DE DIRECTORIO **
+chown -R appauser appa
+chown -R usuario:grupo
+
