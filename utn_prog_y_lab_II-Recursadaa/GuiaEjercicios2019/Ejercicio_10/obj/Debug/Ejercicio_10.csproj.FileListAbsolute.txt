@@ -1,0 +1,7 @@
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\bin\Debug\Ejercicio_10.exe.config
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\bin\Debug\Ejercicio_10.exe
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\bin\Debug\Ejercicio_10.pdb
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\obj\Debug\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\obj\Debug\Ejercicio_10.exe
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\obj\Debug\Ejercicio_10.pdb
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_10\obj\Debug\Ejercicio_10.csprojAssemblyReference.cache

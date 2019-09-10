@@ -1,0 +1,6 @@
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_02\bin\Debug\Ejercicio_02.exe.config
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_02\bin\Debug\Ejercicio_02.exe
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_02\bin\Debug\Ejercicio_02.pdb
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_02\obj\Debug\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_02\obj\Debug\Ejercicio_02.exe
+C:\Users\Eli\source\repos\GuiaEjercicios2019\Ejercicio_02\obj\Debug\Ejercicio_02.pdb
