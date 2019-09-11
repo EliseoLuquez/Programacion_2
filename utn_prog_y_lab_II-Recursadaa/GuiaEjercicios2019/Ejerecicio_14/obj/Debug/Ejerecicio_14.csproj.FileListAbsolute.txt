@@ -1,0 +1,7 @@
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\bin\Debug\Ejerecicio_14.exe.config
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\bin\Debug\Ejerecicio_14.exe
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\bin\Debug\Ejerecicio_14.pdb
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\obj\Debug\Ejerecicio_14.csprojAssemblyReference.cache
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\obj\Debug\Ejerecicio_14.csproj.CoreCompileInputs.cache
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\obj\Debug\Ejerecicio_14.exe
+D:\Luquez\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejerecicio_14\obj\Debug\Ejerecicio_14.pdb
