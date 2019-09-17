@@ -1,0 +1,7 @@
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\bin\Debug\Ejercicio_17.exe.config
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\bin\Debug\Ejercicio_17.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\bin\Debug\Ejercicio_17.pdb
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\obj\Debug\Ejercicio_17.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\obj\Debug\Ejercicio_17.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\obj\Debug\Ejercicio_17.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_17\obj\Debug\Ejercicio_17.pdb

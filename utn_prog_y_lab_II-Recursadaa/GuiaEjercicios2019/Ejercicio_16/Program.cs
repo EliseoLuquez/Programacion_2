@@ -34,20 +34,17 @@ namespace Ejercicio_16
             a3.legajo = 3;
 
 
-            do
-            {
-                Console.WriteLine("Ingrese Nota 1: ");
-                dato = Console.ReadLine();
-                ingresoNotaUno = byte.TryParse(dato, out notaUno);
-                Console.WriteLine("Ingrese Nota 2: ");
-                dato = Console.ReadLine();
-                ingresoNotaDos = byte.TryParse(dato, out notaDos);
+            a1.Estudiar(2, 4);
+            a2.Estudiar(6, 8);
+            a3.Estudiar(9, 7);
 
-            } while (!ingresoNotaUno && !ingresoNotaDos);
+            a1.CalcularFinal();
+            a2.CalcularFinal();
+            a3.CalcularFinal();
 
-            a1.Estudiar(notaUno, notaDos);
-            a2.Estudiar(nota1Aux, nota2Aux);
-            a3.Estudiar(nota1Aux, nota2Aux);
+            Console.WriteLine(a1.Mostrar());
+            Console.WriteLine(a2.Mostrar());
+            Console.WriteLine(a3.Mostrar());
 
 
             Console.ReadKey();

@@ -1,0 +1,11 @@
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\bin\Debug\PruebaGeometria.exe.config
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\bin\Debug\PruebaGeometria.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\bin\Debug\PruebaGeometria.pdb
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\bin\Debug\Ej_18_Geometria.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\bin\Debug\Ej_18_Geometria.pdb
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\bin\Debug\Ej_18_Geometria.exe.config
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\obj\Debug\Ej_18_PruebaGeometria.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\obj\Debug\Ej_18_PruebaGeometria.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\obj\Debug\Ej_18_PruebaGeometria.csproj.CopyComplete
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\obj\Debug\PruebaGeometria.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\PruebaGeometria\obj\Debug\PruebaGeometria.pdb

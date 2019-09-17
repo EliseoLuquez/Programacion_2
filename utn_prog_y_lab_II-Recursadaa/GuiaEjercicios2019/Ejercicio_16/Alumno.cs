@@ -18,6 +18,15 @@ namespace Ejercicio_16
 
         public void CalcularFinal()
         {
+            Random aleatorio = new Random();
+            if (this.nota1 >= 4 && this.nota2 >= 4)
+            {
+                this.notaFinal = aleatorio.Next(4, 10);
+            }
+            else
+            {
+                this.notaFinal = -1;
+            }
 
         }
 
@@ -27,6 +36,23 @@ namespace Ejercicio_16
             this.nota2 = notaDos;
         }
 
+        public string Mostrar()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Alumno: " + this.apellido + " " + this.nombre);
+            sb.AppendLine("Legajo: " + this.legajo);
+
+            if (this.notaFinal != -1)
+            {
+                sb.AppendLine("Nota Final: " + this.notaFinal);
+            }
+            else
+            {
+                sb.AppendLine("Alumno Desaprobado");
+            }
+            return sb.ToString();
+            
+        } 
 
 
 

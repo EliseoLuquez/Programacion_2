@@ -1,0 +1,2 @@
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_18\obj\Debug\Ejercicio_18.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_18\obj\Debug\Ejercicio_18.csproj.CoreCompileInputs.cache
