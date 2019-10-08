@@ -1,0 +1,12 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\Entidades\bin\Debug\Entidades.pdb

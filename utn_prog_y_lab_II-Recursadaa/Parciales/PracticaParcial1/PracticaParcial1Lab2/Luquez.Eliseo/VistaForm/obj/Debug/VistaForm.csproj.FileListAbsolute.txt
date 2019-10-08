@@ -1,0 +1,13 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1Lab2\PracticaParcial1Lab2\Luquez.Eliseo\VistaForm\obj\Debug\VistaForm.FormDT.resources

@@ -1,0 +1,10 @@
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\Eli\Documents\UTN\Programacion_2_Laboratorio2\PracticaParcial1\PracticaParcial1Lab2\Luquez.Eliseo\VistaConsola\obj\Debug\VistaConsola.pdb

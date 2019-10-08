@@ -12,11 +12,24 @@ namespace Billetes
         {
             Console.Title = "Ejercicio 20";
 
-            Dolar d1 = new Dolar(4);
+            Console.WriteLine("Inicializo 5 Dolares: ");
+            Dolar d1 = new Dolar(1, 58);
 
-            Euro e1 = new Euro(10);
+            Console.WriteLine("Inicializo 10 Euros: ");
+            Euro e1 = new Euro(1, 68);
 
-            Pesos p1 = new Pesos(100);
+            Console.WriteLine("Inicializo 100 Pesos: ");
+            Pesos p1 = new Pesos(1, 1);
+
+            d1 += e1;
+            Console.WriteLine("{0}", d1.GetCantidad());
+
+
+
+
+
+
+            Console.ReadKey();
 
 
         }

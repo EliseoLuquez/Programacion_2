@@ -1,0 +1,6 @@
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_20\bin\Debug\Ejercicio_20.exe.config
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_20\bin\Debug\Ejercicio_20.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_20\bin\Debug\Ejercicio_20.pdb
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_20\obj\Debug\Ejercicio_20.csprojAssemblyReference.cache
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_20\obj\Debug\Ejercicio_20.exe
+C:\Users\Eli\Desktop\Programacion_2\utn_prog_y_lab_II-Recursadaa\GuiaEjercicios2019\Ejercicio_20\obj\Debug\Ejercicio_20.pdb
