@@ -1,0 +1,12 @@
+C:\Users\Eli\source\repos\Planetas\FormParcial\bin\Debug\FormParcial.exe.config
+C:\Users\Eli\source\repos\Planetas\FormParcial\bin\Debug\FormParcial.exe
+C:\Users\Eli\source\repos\Planetas\FormParcial\bin\Debug\FormParcial.pdb
+C:\Users\Eli\source\repos\Planetas\FormParcial\bin\Debug\Entidades.dll
+C:\Users\Eli\source\repos\Planetas\FormParcial\bin\Debug\Entidades.pdb
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.csprojAssemblyReference.cache
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.FormSistemaSolar.resources
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.Properties.Resources.resources
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.csproj.GenerateResource.cache
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.csproj.CopyComplete
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.exe
+C:\Users\Eli\source\repos\Planetas\FormParcial\obj\Debug\FormParcial.pdb
