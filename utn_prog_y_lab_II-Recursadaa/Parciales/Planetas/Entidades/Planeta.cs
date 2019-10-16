@@ -58,11 +58,11 @@ namespace Entidades
         }
 
 
-        public static bool operator +(Planeta planeta, Satelite satelite)
+        public static bool operator +(Astro astro, Planeta planeta)
         {
-            if (satelite is Satelite)
+            if (astro is Satelite)
             {
-                planeta.satelites.Add(satelite);
+                planeta.satelites.Add(astro);
                 return true;
             }
             return false;
@@ -74,7 +74,7 @@ namespace Entidades
             return string.Format("\nOrbita el planeta {0}", this.nombre);
         }
 
-        public override string Rotacion()
+        public new string Rotacion()
         {
             return string.Format("\nRota el planeta {0}", this.nombre);
         }

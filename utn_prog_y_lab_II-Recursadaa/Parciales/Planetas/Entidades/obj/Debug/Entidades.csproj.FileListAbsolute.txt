@@ -3,3 +3,15 @@ C:\Users\Eli\source\repos\Planetas\Entidades\bin\Debug\Entidades.pdb
 C:\Users\Eli\source\repos\Planetas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
 C:\Users\Eli\source\repos\Planetas\Entidades\obj\Debug\Entidades.dll
 C:\Users\Eli\source\repos\Planetas\Entidades\obj\Debug\Entidades.pdb
+D:\Planetas\Entidades\bin\Debug\Entidades.dll
+D:\Planetas\Entidades\bin\Debug\Entidades.pdb
+D:\Planetas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+D:\Planetas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Planetas\Entidades\obj\Debug\Entidades.dll
+D:\Planetas\Entidades\obj\Debug\Entidades.pdb
+E:\Planetas\Entidades\bin\Debug\Entidades.dll
+E:\Planetas\Entidades\bin\Debug\Entidades.pdb
+E:\Planetas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+E:\Planetas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+E:\Planetas\Entidades\obj\Debug\Entidades.dll
+E:\Planetas\Entidades\obj\Debug\Entidades.pdb
